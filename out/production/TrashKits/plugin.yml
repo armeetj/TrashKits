@@ -1,0 +1,15 @@
+name: Kits
+author: trashcanolives
+version: 1.0
+description: HCF Kits and Refills
+main: club.trashcanolives.Kits.Main
+website: trashcanolives.club
+commands:
+  refill:
+    aliases: [pots]
+    description: open potion refill GUI
+    usage: /refill
+  kit:
+    aliases: [kits, gkit, gkits]
+    description: open kits selection GUI
+    usage: /kit
